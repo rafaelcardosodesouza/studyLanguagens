@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/02/02.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/04/04.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/05/05.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/05/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/06/06.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/06/06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/07/07.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/07/07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/08/08.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/08/08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/09/09.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/09/09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/10/10.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/11 - 1/11 - 1.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/11 - 1/11 - 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/12/12.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/12/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/13.3/13.3.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/13.3/13.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/execicioDeFixacao/LISTA DE EXERCÍCIOS – JAVA BÁSICO/LISTA DE EXERCÍCIOS – JAVA BÁSICO.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/execicioDeFixacao/LISTA DE EXERCÍCIOS – JAVA BÁSICO/LISTA DE EXERCÍCIOS – JAVA BÁSICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/13.2/application/application.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/13.2/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/01/aulaSaidaDeDados/aulaSaidaDeDados.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/01/aulaSaidaDeDados/aulaSaidaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudo de programação.iml" filepath="$PROJECT_DIR$/.idea/estudo de programação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/01/execicioDeFixacao/execicioDeFixacao.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/01/execicioDeFixacao/execicioDeFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/execicioDeFixacao/exercicio3/exercicio3.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/execicioDeFixacao/exercicio3/exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/13.2/main/main.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/13.2/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/03/main/main1.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/03/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/ws-IntelliJ/03/pt2/pt2.iml" filepath="$PROJECT_DIR$/java/ws-IntelliJ/03/pt2/pt2.iml" />
+    </modules>
+  </component>
+</project>
