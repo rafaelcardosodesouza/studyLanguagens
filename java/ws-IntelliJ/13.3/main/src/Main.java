@@ -19,16 +19,13 @@ public class Main {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        double p = (x.a + x.b + x.c) / 2;
-        double resultA = Math.sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
+        double resultX = x.area();
+        double resultY = y.area();
 
-        p = (y.a + y.b + y.c) / 2;
-        double resultB = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
-
-        if (resultB < resultA) {
-            System.out.printf("Triangle A is bigger than triangle B with area %.4f", resultA);
+        if (resultX < resultY) {
+            System.out.printf("Triangle A is bigger than triangle B with area %.4f", resultX);
         } else {
-            System.out.printf("Triangle B is bigger than triangle A with area %.4f", resultB);
+            System.out.printf("Triangle B is bigger than triangle A with area %.4f", resultY);
         }
         sc.close();
     }
