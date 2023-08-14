@@ -26,8 +26,6 @@ public class Main {
         person.IncreaseSalary(sc.nextDouble());
 
         System.out.printf("Updated data: %s, R$ %.2f", person.name, person.grossSalary);
-
-
         sc.close();
     }
 }
