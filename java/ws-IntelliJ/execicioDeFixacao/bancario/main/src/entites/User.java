@@ -30,10 +30,14 @@ public class User {
     public void setMoney(double money) {
         this.money = money;
     }
-    public void initialDeposit(int reply, double amount){
+    public void Deposit(int reply, double amount){
         if(reply == 'y'){
-            setMoney(amount);
+            setMoney(amount+getMoney());
         }
+    }
+
+    public void removeAmount(double cashWithdrawal){
+       setMoney(getMoney()-cashWithdrawal);
     }
 
 public String toString(){

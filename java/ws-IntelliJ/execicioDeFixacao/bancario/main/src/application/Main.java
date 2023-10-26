@@ -22,11 +22,32 @@ public class Main {
         if (tempDeposit == 'y'){
             System.out.print("Enter initial deposit value: ");
             double amount = sc.nextDouble();
-            user.initialDeposit(tempDeposit,amount);
+            user.Deposit(tempDeposit,amount);
         }
 
-
+        System.out.println("\n");
+        System.out.println("Account data:");
         System.out.print(user);
+
+
+        System.out.println("\n");
+        System.out.print("Enter a deposit value: ");
+        double amount = sc.nextDouble();
+        user.Deposit(tempDeposit,amount);
+
+        System.out.print("Updated account data");
+        System.out.print(user);
+        System.out.println("\n");
+
+        System.out.print("Enter a withdraw value: ");
+        amount = sc.nextDouble();
+        user.removeAmount(amount);
+        System.out.println("\n");
+
+        System.out.print("Updated account data");
+        System.out.print(user);
+
+
 
         /*debug*/
         System.out.println("\n****debug****\n");
