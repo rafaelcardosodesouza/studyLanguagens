@@ -1,6 +1,6 @@
 package application;
-import entites.Account;
 
+import entites.Account;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -10,14 +10,12 @@ public class Main {
         Account account;
         Scanner sc = new Scanner(System.in);
 
-
         System.out.print("Enter account number: ");
         int tempNumber = sc.nextInt();
         sc.nextLine();
 
         System.out.print("Enter account holder: ");
         String tempHolder = sc.nextLine();
-
 
         System.out.print("Is there na initial deposit (y/n)? ");
         char tempDeposit = sc.next().charAt(0);
@@ -35,7 +33,6 @@ public class Main {
         System.out.println("Account data:");
         System.out.print(account);
 
-
         System.out.println("\n");
         System.out.print("Enter a deposit value: ");
         account.deposit(sc.nextDouble());
@@ -50,8 +47,6 @@ public class Main {
 
         System.out.print("Updated account data");
         System.out.print(account);
-
-
 
         /*debug*/
         System.out.println("\n****debug****\n");
