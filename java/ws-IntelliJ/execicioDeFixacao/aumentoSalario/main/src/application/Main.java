@@ -29,6 +29,12 @@ public class Main {
             Employee employee = new Employee(id, name, salary);
             employesList.add(employee);
             System.out.println(" ");
+            for(int x = 0; x<qtd; x++){
+                if(employee.getId() == id){
+                    System.out.print("ID repetido");
+                }
+            }
+
         }
         espace();
         System.out.print("Enter the employee id that will have salary increase: ");
