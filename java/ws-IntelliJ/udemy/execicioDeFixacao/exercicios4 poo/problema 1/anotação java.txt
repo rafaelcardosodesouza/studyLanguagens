@@ -1,0 +1,28 @@
+java é composta por um conjunto de funcionalidades (features)
+
+Simples: java é uma lingaguem simples e facil de enteder, pos nao contem complexidades que existiam em lingagues anteriores, isso por que ele tem que funcionar em dipostivos onde menos memoria/recursos estão disponiveis.
+
+Orientada a Objeto: isso significa que tudo é inscrito em termos de classes e objetos.
+1classe e objeto: 
+2 encapsulamnento
+3 abstração
+4 herança
+5 polimorfismo
+
+plataforma idepente, o objetivo dela é que funciona em qual quer plataforma, ou seja, em qual quer lugar 
+em  java, o codigo-fonte é compilado para butecode esse bytecode nao esta vinculado a nenhum plataforma
+
+portatil: o conceito WORA (write once run anywere) e o recursos indepente de plataforma torba  ojava portaticl, ja que vc só programa uma vez e roda atravez de uma JVM e bytecode
+
+Robusta:  a lingaguem java é bem robusta, isso é, ela é capaz de litar com o encerramento inesperado de um programa
+
+ele usa um genciamente de memoria forte
+java fornece coleta de lixo automatica (lixo de memoria)
+há tratamento de exceção e mecaniscmo de veridcação de tipo em java
+
+segurança, problemas como ameaças de virus, aduteração, espionagem etc.... são minimizados usando em java, a lingagem java oferece alfguns recursos de sefuração com criptografia e descriptografia...
+
+interpletada: em java o programa passa para o compilador para gerar arquivos bytecode e a JVM interpleta o arquivo, ou seja o java é tanto compilada quando interpreta
+
+multi-thread: é um subprocesso leve e independente e um programa em execuçãi (ou seja) que compartilha recursos, mult-threading é o nome dado a varios thereads sendo executados simutanenamente 
+-------------------------------------------------------------------------------

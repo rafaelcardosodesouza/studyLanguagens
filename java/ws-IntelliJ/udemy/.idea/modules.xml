@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02/02.iml" filepath="$PROJECT_DIR$/02/02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/04.iml" filepath="$PROJECT_DIR$/04/04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/05.iml" filepath="$PROJECT_DIR$/05/05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/06.iml" filepath="$PROJECT_DIR$/06/06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/07.iml" filepath="$PROJECT_DIR$/07/07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08/08.iml" filepath="$PROJECT_DIR$/08/08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09/09.iml" filepath="$PROJECT_DIR$/09/09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10/10.iml" filepath="$PROJECT_DIR$/10/10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - 1/11 - 1.iml" filepath="$PROJECT_DIR$/11 - 1/11 - 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Copia/11 - Copia.iml" filepath="$PROJECT_DIR$/11 - Copia/11 - Copia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12/12.iml" filepath="$PROJECT_DIR$/12/12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13/13.iml" filepath="$PROJECT_DIR$/13/13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.3/13.3.iml" filepath="$PROJECT_DIR$/13.3/13.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14/14.iml" filepath="$PROJECT_DIR$/14/14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15/15.iml" filepath="$PROJECT_DIR$/15/15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16/16.iml" filepath="$PROJECT_DIR$/16/16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17/17.iml" filepath="$PROJECT_DIR$/17/17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execicioDeFixacao/LISTA DE EXERCÍCIOS – JAVA BÁSICO/LISTA DE EXERCÍCIOS – JAVA BÁSICO.iml" filepath="$PROJECT_DIR$/execicioDeFixacao/LISTA DE EXERCÍCIOS – JAVA BÁSICO/LISTA DE EXERCÍCIOS – JAVA BÁSICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.2/application/application.iml" filepath="$PROJECT_DIR$/13.2/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/aulaSaidaDeDados/aulaSaidaDeDados.iml" filepath="$PROJECT_DIR$/01/aulaSaidaDeDados/aulaSaidaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/execicioDeFixacao/execicioDeFixacao.iml" filepath="$PROJECT_DIR$/01/execicioDeFixacao/execicioDeFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execicioDeFixacao/exercicio3/exercicio3.iml" filepath="$PROJECT_DIR$/execicioDeFixacao/exercicio3/exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.2/main/main.iml" filepath="$PROJECT_DIR$/13.2/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/main/main1.iml" filepath="$PROJECT_DIR$/03/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execicioDeFixacao/exercicios4 poo/problema 1/problema 1.iml" filepath="$PROJECT_DIR$/execicioDeFixacao/exercicios4 poo/problema 1/problema 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execicioDeFixacao/exercicios4 poo/problema 2/problema 2.iml" filepath="$PROJECT_DIR$/execicioDeFixacao/exercicios4 poo/problema 2/problema 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execicioDeFixacao/exercicios4 poo/problema 3/problema 3.iml" filepath="$PROJECT_DIR$/execicioDeFixacao/exercicios4 poo/problema 3/problema 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/pt2/pt2.iml" filepath="$PROJECT_DIR$/03/pt2/pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/udemy.iml" filepath="$PROJECT_DIR$/.idea/udemy.iml" />
+    </modules>
+  </component>
+</project>
